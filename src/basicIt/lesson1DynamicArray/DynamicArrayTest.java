@@ -11,6 +11,7 @@ public class DynamicArrayTest{
         dynamicArray.add(3);
         dynamicArray.add(4);
         dynamicArray.add(5);
+        dynamicArray.add(6);
         dynamicArray.print();
     }
 }
